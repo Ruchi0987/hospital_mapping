@@ -1,0 +1,37 @@
+[
+  {
+    "name": "City Heart Institute",
+    "departments": ["Cardiology", "Cardiac Surgery"],
+    "diseases": ["heart problem", "chest pain", "hypertension", "arrhythmia"],
+    "location": "New York, NY",
+    "contact": "+1-212-555-0101"
+  },
+  {
+    "name": "Metro Cancer Center",
+    "departments": ["Oncology", "Radiation Oncology"],
+    "diseases": ["cancer", "tumor", "leukemia", "breast cancer"],
+    "location": "Houston, TX",
+    "contact": "+1-713-555-0120"
+  },
+  {
+    "name": "Sunrise Diabetes Clinic",
+    "departments": ["Endocrinology", "Diabetology"],
+    "diseases": ["diabetes", "high sugar", "type 1 diabetes", "type 2 diabetes"],
+    "location": "Phoenix, AZ",
+    "contact": "+1-602-555-0199"
+  },
+  {
+    "name": "NeuroCare Hospital",
+    "departments": ["Neurology", "Neurosurgery"],
+    "diseases": ["stroke", "headache", "epilepsy", "parkinson"],
+    "location": "San Francisco, CA",
+    "contact": "+1-415-555-0148"
+  },
+  {
+    "name": "Lakeside General Hospital",
+    "departments": ["Internal Medicine", "Emergency"],
+    "diseases": ["fever", "infection", "flu", "general illness"],
+    "location": "Chicago, IL",
+    "contact": "+1-312-555-0188"
+  }
+]
